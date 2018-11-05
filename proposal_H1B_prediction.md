@@ -4,7 +4,7 @@ From wiki: “An H-1B visa allows an individual to enter the United States to te
 
 2. What question or problem are you trying to solve?
 
-Could data on how taxis travel through communities be helpful for better understanding of crime in Chicago? Are there any correlation between them?
+Can we predict the result of H-1B visa application based on Historical Case Disclosure Data? Can we tell what are the major factors that affect the decision? 
 
 3. How will you present your work?
 
@@ -12,12 +12,8 @@ Could data on how taxis travel through communities be helpful for better underst
 
 4. What are your data sources?
 
-       Crime:
-       https://data.cityofchicago.org/browse?category=Public%20Safety
-       
-       Taxi:
-       https://data.cityofchicago.org/resource/wrvz-psew.csv API
+       https://www.foreignlaborcert.doleta.gov/performancedata.cfm#dis
 
 5. What’s your next step towards making this your project. 
 
-    • Get API data and see how can I merge the two datasets.
+    • Download data(.xlsx) and convert to csv files. 
