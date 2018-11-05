@@ -1,6 +1,6 @@
 1. High level description of project.
 
-Big data could improve understanding of crime and be used to fight crime. Maybe we can do better by not only focus on crime data but also other public data record. Taxi data in Chicago will be used to analysis and predict crime. 
+From wiki: “An H-1B visa allows an individual to enter the United States to temporarily work at an employer in a specialty occupation. In 2015, there were 348,669 applicants for the H-1B filed, of which 275,317 were approved.” In this project, historical case disclosure data will be used to predict the final outcome of the application. It will be very helpful to know the important features that affect the outcome for both applicants and the employers.
 
 2. What question or problem are you trying to solve?
 
