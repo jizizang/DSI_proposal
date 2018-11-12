@@ -1,4 +1,4 @@
-Predicting Case Status of H-1B Visa Applications
+# Predicting Case Status of H-1B Visa Applications
 
 1. What are you trying to do? Articulate your objectives using absolutely no jargon (i.e. as if you were explaining to a salesperson, executive, or recruiter).
 
