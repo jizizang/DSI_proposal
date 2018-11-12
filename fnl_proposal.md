@@ -8,7 +8,7 @@ There are few work on study of the H1-B data.[2] One of them provided a ROC grap
 
 3. What is new about your approach, why do you think it will be successful?
 
-We will use advanced supervised machine learning for this classification project. As long as the information we get from the data is sufficient, I believe it will be successful since these machine learning techniques have been proved successful for many applications in different fields.
+We will use advanced supervised machine learning for this classification project. As long as the information we get from the data is sufficient and the rejection is not random, I believe it will be successful since these machine learning techniques have been proved successful for many applications in different fields.
     
 4. Who cares? If you're successful, what will the impact be?
 
