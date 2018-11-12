@@ -1,3 +1,5 @@
+Predicting Case Status of H-1B Visa Applications
+
 1. What are you trying to do? Articulate your objectives using absolutely no jargon (i.e. as if you were explaining to a salesperson, executive, or recruiter).
 
 “An H-1B visa allows an individual to enter the United States to temporarily work at an employer in a specialty occupation. In 2015, there were 348,669 applicants for the H-1B filed, of which 275,317 were approved.”[1] In this project, historical case disclosure data will be used to predict the final outcome of the H-1B application using machine learning algorithms. We will try to investigate what are the major factors that affect the decision. It will be very helpful to know these information for employers to reduce potential valuable employee turnover.
