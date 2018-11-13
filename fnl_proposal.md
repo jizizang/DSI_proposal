@@ -8,11 +8,11 @@ In this project, historical case disclosure data will be used to predict the fin
 
 There are few work on study of the H1-B data.[2-4] One of them provided a ROC graph with 50% of the area under the curve, which is equivalent to random guess.[2] It seems only older data (till 2016) with limited number of features (seven) have been studied.[2-4] In this project, we will use the latest data including 2017 and start from all the 51 features.
 
-We will use supervised machine learning for this classification project. As long as the information we get from the data is sufficient and the rejection is not random, I believe it will be successful since these machine learning techniques have been proved successful for many applications in different fields. The data seem to be unbalanced. The rejection rate is much lower than approval rate. It’s probably hard to precisely predict the rejection. We may try re-sample the data such as undersampling,  oversampling or SMOTE(SYNTHETIC MINORITY OVER SAMPLING).
+We will use supervised machine learning for this classification project. As long as the information we get from the data is sufficient and the rejection is not random, I believe it will be successful since these machine learning techniques have been proved successful for many applications in different fields. The data seem to be unbalanced: the rejection rate is much lower than approval rate. It’s probably hard to precisely predict the rejection for this imbalanced class. We may try re-sample the data such as undersampling,  oversampling or SMOTE(SYNTHETIC MINORITY OVER SAMPLING).
 
 The data can be downloaded here: https://www.foreignlaborcert.doleta.gov/performancedata.cfm#dis. They are in .xlsx format. For 2014, 2015, 2016 and 2017 records, the data size is ~600Mb. Data have already been downloaded and will be converted to csv files. 
 
-Better understanding of the meaning of each feature and more domain knowledge will be very helpful for this project. I will first work on small chunk of data or just one year of data and then the whole data. 
+Better understanding of the meaning of each feature and more domain knowledge will be very helpful for this project. I will read more about the application process and have a look at the applicagion form. Basic exploratory data analysis(EDA) on small chunk of data or just one year of data will first be performed. I will then build a simple model for evaluation and make decision for next iteration.
 
 
 **Presentation**
