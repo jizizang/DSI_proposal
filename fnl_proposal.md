@@ -4,7 +4,7 @@
 
 In this project, historical case disclosure data will be used to predict the final outcome of the H-1B application using machine learning algorithms. We will try to investigate what are the major factors that affect the decision. It will be very helpful to know these information for employers to reduce potential valuable employee turnover.
 
-There are few work on study of the H1-B data.[2-4] One of them provided a ROC graph with 50% of the area under the curve, which is equivalent to random guess. It seems only older data (till 2016) with limited number of features (seven) have been studied. In this project, we will use the latest data including 2017 and start from all the 51 features.
+There are few work on study of the H1-B data.[2-4] One of them provided a ROC graph with 50% of the area under the curve, which is equivalent to random guess.[2] It seems only older data (till 2016) with limited number of features (seven) have been studied.[2-4] In this project, we will use the latest data including 2017 and start from all the 51 features.
 
 We will use advanced supervised machine learning for this classification project. As long as the information we get from the data is sufficient and the rejection is not random, I believe it will be successful since these machine learning techniques have been proved successful for many applications in different fields. The data seem to be unbalanced. The rejection rate is much lower than approval rate. It’s probably hard to precisely predict the rejection. We may try re-sample the data such as undersampling,  oversampling or SMOTE(SYNTHETIC MINORITY OVER SAMPLING).
 
@@ -18,6 +18,9 @@ Better understanding of the meaning of each feature and more domain knowledge wi
 I plan to present my work with slides presentation.
 
 
+
+
+**References**
 
 [1]. https://en.wikipedia.org/wiki/H-1B_visa
 
