@@ -6,7 +6,7 @@
 
 2. How has this problem been solved before? If you feel like you are addressing a novel issue, what similar problems have been solved, and how are you borrowing from those?
 
-There are few work on study of the H1-B data.[2] One of them provided a ROC graph with 50% of the area under the curve, which is equivalent to random guess. It seems only older data (till 2016) with limited number of features (seven) have been studied. In this project, we will use the latest data including 2017 and start from all the 51 features.
+There are few work on study of the H1-B data.[2-4] One of them provided a ROC graph with 50% of the area under the curve, which is equivalent to random guess. It seems only older data (till 2016) with limited number of features (seven) have been studied. In this project, we will use the latest data including 2017 and start from all the 51 features.
 
 3. What is new about your approach, why do you think it will be successful?
 
@@ -39,6 +39,6 @@ Data were downloaded and will be converted to csv files. Better understanding of
 
 [2]. https://www.datacamp.com/community/tutorials/predicting-H-1B-visa-status-python
 
-https://cseweb.ucsd.edu/classes/wi17/cse258-a/reports/a054.pdf
+[3]. https://cseweb.ucsd.edu/classes/wi17/cse258-a/reports/a054.pdf
 
-http://cs229.stanford.edu/proj2017/final-reports/5208701.pdf
+[4]. http://cs229.stanford.edu/proj2017/final-reports/5208701.pdf
