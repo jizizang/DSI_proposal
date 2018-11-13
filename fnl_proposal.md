@@ -2,6 +2,8 @@
 
 “An H-1B visa allows an individual to enter the United States to temporarily work at an employer in a specialty occupation. In 2015, there were 348,669 applicants for the H-1B filed, of which 275,317 were approved.”[1] Employer invests money and time on hiring high-skilled foreign people and all these efforts will be wasted if the H1-B application is rejected. Knowing the factors that influence the application results will help employer to make right decisions to avoid the rejection.
 
+![alt text](https://github.com/jizizang/DSI_proposal/blob/master/H1B.jpg)
+
 In this project, historical case disclosure data will be used to predict the final outcome of the H-1B application using machine learning algorithms. We will try to investigate what are the major factors that affect the decision. It will be very helpful to know these information for employers to reduce potential valuable employee turnover.
 
 There are few work on study of the H1-B data.[2-4] One of them provided a ROC graph with 50% of the area under the curve, which is equivalent to random guess.[2] It seems only older data (till 2016) with limited number of features (seven) have been studied.[2-4] In this project, we will use the latest data including 2017 and start from all the 51 features.
