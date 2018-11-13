@@ -21,8 +21,8 @@ Employer invests money and time on hiring high-skilled foreign people and all th
 I plan to present my work with slides presentation.
 
 6. What are your data sources? What is the size of your dataset, and what is your storage format?
-       
-       The data can be downloaded herer: https://www.foreignlaborcert.doleta.gov/performancedata.cfm#dis. They are in .xlsx format. For 2014, 2015, 2016 and 2017 records, the data size is ~600Mb. I have downloaded them and will convert them to csv files.
+
+The data can be downloaded herer: https://www.foreignlaborcert.doleta.gov/performancedata.cfm#dis. They are in .xlsx format. For 2014, 2015, 2016 and 2017 records, the data size is ~600Mb. I have downloaded them and will convert them to csv files. 
 
 7. What are potential problems with your capstone, and what have you done to mitigate these problems?
 
